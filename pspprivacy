@@ -1,0 +1,39 @@
+Privacy Policy
+
+Last updated: November 1, 2026
+
+This Privacy Policy describes how PSP Classic (“the App”) handles information. PSP Classic is a PlayStation Portable (PSP) emulator for Android based on PPSSPP and released under the GNU GPL.
+
+1. No account
+The App does not require you to create an account. You can use it without signing in.
+
+2. Data stored on your device
+Game files, save data, settings, control layouts, and downloaded games are stored locally on your device. We do not operate a user account system and do not collect this content as a cloud profile.
+
+3. Advertising (AdMob)
+The App may show ads through Google AdMob. AdMob and its partners may collect and process certain information to provide and measure ads, such as device identifiers, IP address, approximate location derived from IP, ad interaction data, and diagnostic data, according to Google’s own policies. Ads may be personalized or non-personalized depending on your device settings and applicable consent rules.
+
+You can reduce ads in the App with the “Hide ads” option in Settings, where available. You can also reset or limit advertising ID use in your Android system settings.
+
+4. Remote game catalog
+To show downloadable games, the App may download a remote configuration file (for example from a URL you or the developer configure). That request may include standard technical data such as IP address and user agent. The catalog content itself is not a personal profile of you.
+
+5. Network permission
+The App needs internet access to load ads, fetch the remote game catalog, and open links you tap (such as Telegram, YouTube, privacy policy, or store pages).
+
+6. Third-party services and links
+Links to Telegram, YouTube, GitHub, Google Play, or other sites are provided for convenience. Those services have their own privacy policies. We are not responsible for their practices.
+
+7. Children
+The App is not directed at children under 13. If you believe a child has provided personal information through a third-party service linked from the App, contact that service’s provider.
+
+8. Changes
+We may update this Privacy Policy from time to time. The “Last updated” date at the top will change when we do. Continued use of the App after changes means you should review the revised policy.
+
+9. Contact
+For privacy questions about PSP Classic, contact: [YOUR EMAIL HERE]
+
+10. Open-source notice
+PSP Classic is based on PPSSPP. PPSSPP is free software licensed under the GNU General Public License. This policy covers the App’s advertising, catalog, and distribution practices; it does not replace the GPL terms that apply to the open-source emulator code.
+
+Replace "[YOUR EMAIL HERE]" with your real contact email before publishing.
